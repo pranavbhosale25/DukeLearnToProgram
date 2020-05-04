@@ -1,4 +1,4 @@
-# DukeLearnToProgram
+# Duke-Learn-To-Program
 Contains codes implemented during the Duke Learn to Program (Java) Specialization on Coursera
 
 • Will include mini-projects too.

@@ -1,0 +1,25 @@
+body {
+  background-color: #c8f3eb;
+  font-family: Verdana;
+  margin: 40px;
+}
+
+h1{
+  background-color:#40bad5;
+  text-align:center;
+  font-family:Arial;
+  font-size:40pt;
+}
+
+canvas{
+  background-color:#eff3c6;
+  border: 5px solid black;
+  width: 200pt;
+  height: 150pt;
+}
+
+div{
+  font-size: 14pt;
+  font-family: arial;
+  color: #40bad5;
+}

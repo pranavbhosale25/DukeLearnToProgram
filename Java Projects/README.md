@@ -1,7 +1,7 @@
-# Fun-With-Shapes
+# Duke Learn To Program
 
-## Shapes practice example from Week 1 Course 2 of the Java Specialization by Duke University and UC San Diego
+## Practice assignments of the Java Specialization by Duke University & UC San Diego
 
-• Takes input from text file that contains co-ordinates of the points of the shape
-• Can do it for multiple files and compare perimeters too
-• BlueJ package also uploaded for use
+For all progams implemented: Run using BlueJ environment (custom version) provided by Duke University. Found on dukelearntoprogram.com
+
+Refer dukelearntoprogram.com for more input data and documentation
